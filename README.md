@@ -8,4 +8,4 @@
   + Press Space again to spin another round
 
 # DEMO:
-[[_Link_]: https://github.com/cc30-monster-wheel]
+## Link: [https://yanfan-hw.github.io/cc30-monster-wheel]
