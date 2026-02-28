@@ -5,6 +5,7 @@
     "version": "3.7.3"
   },
   "scripts": {
+    "predeploy": "rm -rf build/web-mobile/.gitignore && touch build/web-mobile/.nojekyll",
     "deploy": "gh-pages -d build/web-mobile"
   },
   "devDependencies": {
